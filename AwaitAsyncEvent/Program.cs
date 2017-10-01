@@ -10,7 +10,7 @@ namespace AwaitAsyncEvent
 	{
 		public static void Main (string [] args)
 		{
-			var url = "http://tripim.com";
+			var url = "http://google.com";
 
 			WriteLine (url);
 
